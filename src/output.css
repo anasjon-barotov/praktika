@@ -162,6 +162,9 @@
   }
 }
 @layer utilities {
+  .m-\[40px\] {
+    margin: 40px;
+  }
   .mt-\[20px\] {
     margin-top: 20px;
   }
@@ -192,6 +195,15 @@
   .mt-\[250px\] {
     margin-top: 250px;
   }
+  .mt-\[300px\] {
+    margin-top: 300px;
+  }
+  .mt-\[400px\] {
+    margin-top: 400px;
+  }
+  .mt-\[500px\] {
+    margin-top: 500px;
+  }
   .mr-\[200px\] {
     margin-right: 200px;
   }
@@ -200,6 +212,18 @@
   }
   .mr-\[500px\] {
     margin-right: 500px;
+  }
+  .ml-\[10px\] {
+    margin-left: 10px;
+  }
+  .ml-\[50px\] {
+    margin-left: 50px;
+  }
+  .ml-\[100px\] {
+    margin-left: 100px;
+  }
+  .ml-\[200px\] {
+    margin-left: 200px;
   }
   .ml-\[300px\] {
     margin-left: 300px;
